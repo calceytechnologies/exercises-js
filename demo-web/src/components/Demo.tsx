@@ -1,5 +1,5 @@
 const Demo = () => {
-  return <div data-testid="demo">test</div>;
+  return <div className="demo-container" data-testid="demo">Test</div>;
 };
 
 export default Demo;
