@@ -23,7 +23,7 @@ a:hover {
 }
 
 body {
-
+  padding: 2rem
 }
 
 h1 {
@@ -64,6 +64,4 @@ button:focus-visible {
 }
 
 .demo-container{
-  text-align:center;
-  font-weight:bold;
 }
